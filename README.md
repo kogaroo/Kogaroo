@@ -1,8 +1,7 @@
 ## Its me...🦇
 
 <!-- Banner  -->
-<a href="https://github.com/Kogaroo">
-  <img src="assets/images svg/idia banner.png" alt="banner"  style="width:100%; height:auto"/>
+<a href ="https://github.com/kogaroo">
+  <img src ="assets/images svg/idia banner.png" alt="banner"  style="width:100%; height:auto"/>
 </a>
 
-<div align="center">
