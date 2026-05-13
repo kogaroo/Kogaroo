@@ -5,7 +5,10 @@
   <img src ="assets/Images svg/idia banner.png" alt="banner"  style="width:100%; height:auto"/>
 </a>
 
-
+<!-- About me  -->
+<a href ="https://github.com/kogaroo">
+  <img src ="assets/Icons/about_me.png" alt="banner"  style="width:100%; height:auto"/>
+</a>
 
 **Who Am I?**
 </div>
@@ -18,5 +21,7 @@ Over time, I have some **experience by doing illustration projects or even other
 
 </div>
 
-</br>
-</br>
+<!-- Softwares and Skills  -->
+<a href ="https://github.com/kogaroo">
+  <img src ="assets/Icons/skills.png" alt= "banner"  style="width:100%; height:auto"/>
+</a>
