@@ -65,3 +65,8 @@ Over time, I have some **experience by doing illustration projects or even other
 <a href ="https://github.com/kogaroo">
   <img src ="assets/Icons/separador2.png" alt="banner"  style="width:100%; height:auto"/>
 </a>
+
+<!-- Separador final  -->
+<a href ="https://github.com/kogaroo">
+  <img src ="assets/Images svg/idia banner2.png" alt="banner"  style="width:100%; height:auto"/>
+</a>
