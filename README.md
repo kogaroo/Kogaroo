@@ -1,4 +1,8 @@
 ## Its me...🦇
+<!-- Separador 1  -->
+<a href ="https://github.com/kogaroo">
+  <img src ="assets/Icons/separador1.png" alt="banner"  style="width:100%; height:auto"/>
+</a>
 
 <!-- Banner  -->
 <a href ="https://github.com/kogaroo">
@@ -24,4 +28,9 @@ Over time, I have some **experience by doing illustration projects or even other
 <!-- Softwares and Skills  -->
 <a href ="https://github.com/kogaroo">
   <img src ="assets/Icons/skills.png" alt= "banner"  style="width:100%; height:auto"/>
+</a>
+
+<!-- Separador 2  -->
+<a href ="https://github.com/kogaroo">
+  <img src ="assets/Icons/separador2.png" alt="banner"  style="width:100%; height:auto"/>
 </a>
