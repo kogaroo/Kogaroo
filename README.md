@@ -51,6 +51,16 @@ Over time, I have some **experience by doing illustration projects or even other
   <img src ="assets/Icons/skills.png" alt= "banner"  style="width:100%; height:auto"/>
 </a>
 
+**I have this develop skills**
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,matlab,mysql)](https://skillicons.dev)
+
+**I wish to have this skills**
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=ae,cs,cpp,java,ruby,r)](https://skillicons.dev)
+
 <!-- Separador 2  -->
 <a href ="https://github.com/kogaroo">
   <img src ="assets/Icons/separador2.png" alt="banner"  style="width:100%; height:auto"/>
